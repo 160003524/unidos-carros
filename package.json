@@ -1,0 +1,19 @@
+{
+  "name": "unidos-carros",
+  "version": "1.0.0",
+  "description": "Ejercicio en conjunto con los compañeros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/160003524/unidos-carros.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/160003524/unidos-carros/issues"
+  },
+  "homepage": "https://github.com/160003524/unidos-carros#readme"
+}
