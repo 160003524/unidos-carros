@@ -7,4 +7,5 @@ const conexion = new Pool({
   password: process.env.PASSWORD,
   port: process.env.PORTBD,
 });
+
 module.exports = conexion;
